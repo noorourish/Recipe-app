@@ -1,21 +1,29 @@
-# 🍲 Recipe App
-This is a simple Recipe App built using HTML, CSS, and JavaScript.  
-The app allows users to search for recipes and view details like ingredients and instructions using a Recipe API.  
-It fetches real-time data and displays it in a user-friendly interface.
-## ✨ Features
-- Search recipes by name
-- Fetch data from API
-- Display recipe details
-- View ingredients list
-- Responsive design
-- ## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
-- API (Fetch method)
-- ## ⚙️ How It Works
-- User enters a recipe name
-- App sends request to API using fetch()
-- API returns recipe data in JSON format
-- Data is displayed on the screen dynamically
-- 
+# 🍽️ Recipe App
+
+A simple and responsive Recipe App built using HTML, CSS, and JavaScript. This app allows users to search for recipes and view details using an external API.
+
+## 🚀 Live Demo
+
+🔗 https://noorourish.github.io/Recipe-app/
+
+## 📌 Features
+
+* Search recipes
+* View recipe details
+* Responsive design
+* Uses API for fetching data
+
+## 🛠️ Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* API integration
+
+## 📷 Screenshot
+
+(Add your project screenshot here)
+
+## 📂 GitHub Repository
+
+https://github.com/noorourish/Recipe-app
